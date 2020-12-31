@@ -1,0 +1,16 @@
+/** on hover change info icon color to dark */
+.info-box:hover,
+.info-box:hover .info-box-icon {
+  background-color: #2b2a2a;
+}
+
+.box-header {
+  color: red;
+  font-size: large;
+  text-align: center;
+}
+
+/** on hover change status color to dark */
+.box:hover {
+  border-top-color: #2b2a2a;
+}
